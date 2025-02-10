@@ -5,7 +5,7 @@
 
 
 # Final Submitted Project
-[PC Builder:_A haven to custom built PC](https://github.com/Fathin-Ishrak-Romeo/CSE471_Final-Project_PC-Builder-Website_A-haven-to-custom-built-PC/tree/main)
+[PC Builder: A haven to custom built PC](https://github.com/Fathin-Ishrak-Romeo/CSE471_Final-Project_PC-Builder-Website_A-haven-to-custom-built-PC/tree/main)
 
 # Updated Version
 [PCGenixAI](https://github.com/Fathin-Ishrak-Romeo/PCGenixAI)
